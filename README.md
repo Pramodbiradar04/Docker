@@ -20,18 +20,3 @@
 
 ---
 
-# 🏗 What is Build?
-
-Understand the Docker build process and how Dockerfile helps define the application’s environment.
-
-## 📌 Basic Build Command
-```bash
-docker build -t myapp .
-
-# 🏃 Docker Run
-
-Run a container from an image using the `docker run` command.
-
-## 📌 Basic Run Command
-```bash
-docker run myapp
