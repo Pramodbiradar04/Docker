@@ -1,7 +1,7 @@
-# Welcome to My Project
+# 📌 Docker Learning Roadmap 🚀
 
-<span style="font-size: 24px;">**🚀 Steps to Create a GitHub Repository and Add Files**</span>
+<span style="font-size: 24px;">**🛠 Introduction and Purpose**</span>
 
 <span style="font-size: 20px;">**This is slightly smaller but still bold.**</span>
 
-<span style="font-size: 16px;">**This is normal-sized bold text.**</span>
+<span style="font-size: 16px;">**Understand Docker’s role in modern software development and how it simplifies application deployment using containers.**</span>
